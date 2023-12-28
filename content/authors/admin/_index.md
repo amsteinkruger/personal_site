@@ -15,7 +15,9 @@ education:
 interests:
 - Environmental Economics
 - Natural Resource Economics
-- Fisheries
+- Fisheries Economics
+- Geospatial Analysis
+- Network Analysis
 organizations:
 - name: Pacific States Marine Fisheries Commission
   url: https://www.psmfc.org/
@@ -39,8 +41,10 @@ social:
   link: https://www.linkedin.com/in/amsteinkruger
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/cv_steinkruger_20231227.pdf
 superuser: true
 ---
 
-This is an "About Me" blurb.
+I am a Climate and Communities Social Scientist for the Pacific States Marine Fisheries Commission in support of the Alaska Fisheries Science Center in Juneau, Alaska. In this role, I advance social science on climate change adaptation and resilience through the [**Gulf of Alaska Climate Integrated Modeling Project**](https://www.fisheries.noaa.gov/alaska/ecosystems/gulf-alaska-climate-integrated-modeling-project), in particular GOA-CLIM Theme 3—[**From Climate to Communities**](https://www.fisheries.noaa.gov/alaska/socioeconomics/gulf-alaska-climate-integrated-modeling-socioeconomics-climate-communities)—led by Dr. Marysia Szymkowiak. Since 2020, I have contributed to quantitative and qualitative research in Gulf of Alaska fishing communities to understand their resilience to present and future climate change impacts.
+
+I am also an applicant to doctoral programs on the 2023-'24 cycle. I look forward to studying applied economics and interdisciplinary social science, with particular interest in climate change impacts and cascading failures in networks of fishing businesses. 
