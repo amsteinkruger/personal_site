@@ -1,2 +1,1 @@
-# personal_site
-personal_site
+This repo supports a [personal site](https://amsteinkruger.com). 
