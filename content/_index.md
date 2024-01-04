@@ -28,28 +28,19 @@ sections:
     columns: "2"
     view: compact
   id: posts
+
+  
 - block: collection
   content:
-    count: 3
+    title: Recent Publications
     filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
       folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Publications
+        - publication
   design:
-    columns: "2"
+    columns: '2'
     view: compact
   id: publications
+
 title: ""
 type: landing
 ---
